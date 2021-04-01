@@ -42,11 +42,12 @@
     ``
         php artisan serve
     ``
-    ``
+    
+    
         http://127.0.0.1:8000/dashboard
         http://127.0.0.1:8000/login
         http://127.0.0.1:8000/register 
-    ``
+    
 
 ## Youtube
 Join in youtube
