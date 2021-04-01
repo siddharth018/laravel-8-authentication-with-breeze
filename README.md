@@ -1,43 +1,40 @@
 ## About
 <h2>Step 1: download in your system.</h2>  
 
-    ``
+    
         git clone https://github.com/siddharth018/laravel-8-authentication-with-breeze.git
 
-    ``
-    ``
         cd laravel-8-authentication-with-breeze
-    ``
+    
 
 <h2>Step 2: Configure your database from .env file</h2> 
 
-    ``
+    
         DB_CONNECTION=mysql
         DB_HOST=127.0.0.1
         DB_PORT=3306
         DB_DATABASE=laravel-8-authentication-with-breeze
         DB_USERNAME=root
         DB_PASSWORD=root@123
-    ``
+    
 <h2>Step 3: Migrate</h2> 
 
-    ``
         php artisan migrate
-    ``
+    
 
 
 <h2>Step 4: Install composer</h2> 
 
-    ``
+    
         composer install
-    ``
+    
 
 <h2>Step 5: key generate</h2> 
 
-    ``
-        php artisan key:generate
-    ``
     
+        php artisan key:generate
+    
+
 <h2>Step 6: Run server</h2>  
 
     
