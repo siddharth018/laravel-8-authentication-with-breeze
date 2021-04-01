@@ -37,11 +37,12 @@
     ``
         php artisan key:generate
     ``
+    
 <h2>Step 6: Run server</h2>  
 
-    ``
+    
         php artisan serve
-    ``
+    
     
     
         http://127.0.0.1:8000/dashboard
